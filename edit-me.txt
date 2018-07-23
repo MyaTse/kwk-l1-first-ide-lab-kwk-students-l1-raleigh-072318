@@ -1,2 +1,2 @@
 puts "Hi, queen elizabeth"
-gets
+imput = gets
